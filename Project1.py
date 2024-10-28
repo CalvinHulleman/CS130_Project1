@@ -33,4 +33,4 @@ def median(ls):
 print("Average:", average(hours))
 print("Proportion above Average:", prop_above(hours))
 print("Median:", median(hours))
-
+print("The Average was significantly higher than the median since we had a realtively long right tail with one data point over 30 hours above the average")
